@@ -4,6 +4,8 @@ description: This handout contains a list of key terms.
 file: /courses/21l-012-forms-of-western-narrative-spring-2004/0430ccda9a68277c1d1a6250f0b41828_handout01keyte.pdf
 file_size: 11266
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
