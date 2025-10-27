@@ -4,8 +4,6 @@ description: Final exam questions.
 file: /courses/21l-012-forms-of-western-narrative-spring-2004/f920f08cb3110eb4714b80c0adf46afd_finalexam.pdf
 file_size: 44585
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

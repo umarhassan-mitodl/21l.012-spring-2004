@@ -4,8 +4,6 @@ description: This handout contains an outline of the reading assignment.
 file: /courses/21l-012-forms-of-western-narrative-spring-2004/e119afe82fcd1be319cb33291dfe9e27_handout02chain.pdf
 file_size: 10902
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

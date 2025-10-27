@@ -4,8 +4,6 @@ description: This handout contains notes for the reading assignment.
 file: /courses/21l-012-forms-of-western-narrative-spring-2004/33daeb97772073b36a5739027a0b36ad_handout08donqu.pdf
 file_size: 10267
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

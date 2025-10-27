@@ -4,8 +4,6 @@ description: ''
 file: /courses/21l-012-forms-of-western-narrative-spring-2004/917fc4d2882eb960bf8e2c2975693fe6_achilespenthsla.jpg
 file_size: 69254
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
